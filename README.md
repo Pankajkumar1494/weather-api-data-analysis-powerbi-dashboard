@@ -53,6 +53,9 @@ The dashboard enables users to explore weather trends through interactive visual
 ## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
+![Dashboard](Dashboard-2.png)
+![Dashboard](Dashboard-3.png)
+![Dashboard](Dashboard-4.png)
 ---
 
 ## 🚀 How to Use
