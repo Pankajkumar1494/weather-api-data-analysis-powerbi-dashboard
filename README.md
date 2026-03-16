@@ -50,7 +50,9 @@ The dashboard enables users to explore weather trends through interactive visual
 
 ## 📷 Dashboard Preview
 
-![weather-api-data-analysis-powerbi-dashboard](dashboard.png)
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 ---
 
 ## 🚀 How to Use
