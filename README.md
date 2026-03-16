@@ -50,7 +50,7 @@ The dashboard enables users to explore weather trends through interactive visual
 
 ## 📷 Dashboard Preview
 
-
+![Power BI Dashboard](dashboard.png)
 ---
 
 ## 🚀 How to Use
